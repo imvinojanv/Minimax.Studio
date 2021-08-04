@@ -1448,7 +1448,7 @@ h6 {
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
-
+/* 
 @media (min-width: 991px) {
   #call-to-action .cta-btn-container {
     display: -webkit-box;
@@ -1566,4 +1566,4 @@ h6 {
   #footer .footer-top .social-links a {
     margin-bottom: 25px;
   }
-}
+} */
